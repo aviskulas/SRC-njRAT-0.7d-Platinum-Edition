@@ -1,6 +1,8 @@
 # SRC-njRAT-0.7d-Platinum-Edition
 
-Update: Added Screamer  
+### Update: Added Screamer  
+### TODO: No external plugin for screenlocker  
+
   
 Full Compile Tutorial:  
 
