@@ -7,6 +7,7 @@ https://user-images.githubusercontent.com/127018596/223409411-50a97f67-b821-44c6
 Common compile errors:  
 
 If you edit Form1 or maybe some other forms and try to compile you may run into errors like:  
+  
 Type 'NJRAT.L1' is not defined  
 Type 'NJRAT.Pp1' is not defined  
 Type 'NJRAT.Gclass9' is not defined  
