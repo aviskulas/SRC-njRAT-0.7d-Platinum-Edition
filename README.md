@@ -1,6 +1,6 @@
 # SRC-njRAT-0.7d-Platinum-Edition
 
-### Update: Added Screamer  
+### Update: Added Melt (Self-delete)  
 ### TODO: No dropping exe for screenlocker  
 
   
