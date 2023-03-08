@@ -1,7 +1,7 @@
 # SRC-njRAT-0.7d-Platinum-Edition
 
-### Update: Added Melt (Self-delete)  
-### TODO: No dropping exe for screenlocker  
+### Update: No dropping exe for screenlocker  
+### TODO: No dropping exe for Anti ANY.RUN Checker  
 
   
 Full Compile Tutorial:  
