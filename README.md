@@ -6,7 +6,7 @@
   
 Full Compile Tutorial:  
   
-https://user-images.githubusercontent.com/127018596/223556521-054a8ffa-7572-4cdb-9e25-eb084b10b463.mp4
+Being revised
   
   
 Common compile errors:  
