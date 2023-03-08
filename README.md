@@ -1,6 +1,6 @@
 # SRC-njRAT-0.7d-Platinum-Edition
 
-### Update: Turn Monitor On/Off  
+### Update:  Pick .NET Compiler Version  
 ### TODO: Feel free to suggest improvements/features in Issues tab.  
 
   
