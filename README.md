@@ -1,6 +1,6 @@
 # SRC-njRAT-0.7d-Platinum-Edition
 
-### Update: No dropping exe for Anti ANYRUN  
+### Update: Turn Monitor On/Off  
 ### TODO: Feel free to suggest improvements/features in Issues tab.  
 
   
