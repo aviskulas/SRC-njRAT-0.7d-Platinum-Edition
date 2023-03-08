@@ -1,7 +1,7 @@
 # SRC-njRAT-0.7d-Platinum-Edition
 
-### Update: No dropping exe for screenlocker  
-### TODO: No dropping exe for Anti ANY.RUN Checker  
+### Update: No dropping exe for Anti ANYRUN  
+### TODO: Feel free to suggest improvements/features in Issues tab.  
 
   
 Full Compile Tutorial:  
