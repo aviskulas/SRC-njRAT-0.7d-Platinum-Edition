@@ -1,6 +1,6 @@
 # SRC-njRAT-0.7d-Platinum-Edition
 
-### Update:  Pick .NET Compiler Version  
+### Update: Clean up project.  
 ### TODO: Feel free to suggest improvements/features in Issues tab.  
 
   
