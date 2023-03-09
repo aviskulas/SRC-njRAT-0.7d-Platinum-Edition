@@ -1,10 +1,13 @@
 # njRAT 0.7d Platinum Edition
 
-### Latest Update: Clean up project.  
+### Latest Updates:  
+* Add Eventwr (Windows 7) UAC Bypass
+* Add RunAS (Not Bypass) Privilege Escalation
+* Add Admin Check (Check if you are admin)
  
 ### TODO:
 * Add optional sound effect to Screamer
-* Add UAC Bypass (Working on eventvwr.exe)
+* Add more UAC Bypass methods (fodhelper, cmstp)
 * Feel free to suggest improvements/features in Issues tab.  
 
   
