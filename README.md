@@ -1,18 +1,21 @@
-# SRC-njRAT-0.7d-Platinum-Edition
+# njRAT 0.7d Platinum Edition
 
-### Update: Clean up project.  
-### TODO: Feel free to suggest improvements/features in Issues tab.  
+### Latest Update: Clean up project.  
+ 
+### TODO:
+* Add optional sound effect to Screamer
+* Add UAC Bypass (Working on eventvwr.exe)
+* Feel free to suggest improvements/features in Issues tab.  
 
   
-Full Compile Tutorial:  
+##### Full Compile Tutorial:  
   
 
 
 https://user-images.githubusercontent.com/127018596/223757003-e0c30464-55e5-49dd-8c69-8f2c2e3fd1b7.mp4
 
 
-  
-  
+⠀  
 Common compile errors:  
 
 If you edit Form1 or maybe some other forms and try to compile you may run into errors like:  
