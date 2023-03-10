@@ -11,10 +11,7 @@
   
 ##### Full Compile Tutorial:  
   
-
-
-https://user-images.githubusercontent.com/127018596/223757003-e0c30464-55e5-49dd-8c69-8f2c2e3fd1b7.mp4
-
+Being revised...
 
 ⠀  
 Common compile errors:  
