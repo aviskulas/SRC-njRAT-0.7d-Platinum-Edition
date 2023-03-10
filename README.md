@@ -1,5 +1,7 @@
 # njRAT 0.7d Platinum Edition
-
+  
+<img src=https://img.shields.io/github/repo-size/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition alt="Repo Size">  
+  
 ### Latest Updates:  
 * Add optional Sound Effect for Screamer
 * Improve Screamer (Make on-top)
