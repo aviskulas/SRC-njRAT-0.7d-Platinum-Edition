@@ -21,13 +21,13 @@ https://user-images.githubusercontent.com/127018596/224331440-fdfdc5ec-e081-48a7
 ⠀  
 ### Common compile errors:  
 
-### If you edit Form1 or maybe some other forms and try to compile you may run into errors like:  
+#### If you edit Form1 or maybe some other forms and try to compile you may run into errors like:  
   
 Type 'NJRAT.L1' is not defined  
 Type 'NJRAT.Pp1' is not defined  
 Type 'NJRAT.Gclass9' is not defined  
   
-### These will happen during compiling, to fix them, follow this:
+#### These will happen during compiling, to fix them, follow this:
 
 Change
 ```
