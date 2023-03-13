@@ -10,7 +10,7 @@
 * Feel free to suggest improvements/features in Issues tab.  
 
   
-##### Full Compile Tutorial & Showcase:  
+##### Full Compile Tutorial & Showcase (Low quality due to Github filesize limit):  
   
 
 
