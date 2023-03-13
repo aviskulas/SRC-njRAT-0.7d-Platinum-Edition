@@ -3,8 +3,7 @@
 <img src=https://img.shields.io/github/repo-size/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition alt="Repo Size"> ![GitHub last commit](https://img.shields.io/github/last-commit/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition)
   
 ### Latest Updates:  
-* Add optional Sound Effect for Screamer
-* Improve Screamer (Make on-top)
+* Add another split-key to flooder.
  
 ### TODO:
 * Add more UAC Bypass methods (fodhelper, cmstp)
