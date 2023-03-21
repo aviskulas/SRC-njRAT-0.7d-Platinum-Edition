@@ -2,6 +2,11 @@
   
 <img src=https://img.shields.io/github/repo-size/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition alt="Repo Size"> ![GitHub last commit](https://img.shields.io/github/last-commit/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition)
   
+### Extra:  
+* Want 70+ notification sounds for njRAT  
+* Including a collection from other RATs?  
+* Check: ![njRAT Sounds Collection](https://github.com/ChimesOfDestruction/njRAT-Sounds-Collection)  
+  
 ### Latest Updates:  
 * Add another split-key to flooder.
  
