@@ -2,12 +2,13 @@
   
 <img src=https://img.shields.io/github/repo-size/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition alt="Repo Size"> ![GitHub last commit](https://img.shields.io/github/last-commit/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition)
   
-### Extra:  
-* Update coming soon fixing the pastebin DNS crashing, instead it wil retry many times and if it does not work it will simply end itself.
-* Also adding more GDI+ effects.
-  
 ### Latest Updates:  
-* Add another split-key to flooder.
+* Fix the pastebin DNS crashing, instead it wil continue retrying, if it fails after 50 tries it stops.
+* 3 new GDI+ effects:
+* Draw a full rainbow gradient to the victims  screen.
+* Draw a scary face to a random position on the victims  screen.
+* Draw some crazy lines all over the victims screen.
+* Draw System Icons all over the victims screen.
  
 ### TODO:
 * Add more UAC Bypass methods (fodhelper, cmstp)
