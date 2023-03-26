@@ -3,9 +3,8 @@
 <img src=https://img.shields.io/github/repo-size/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition alt="Repo Size"> ![GitHub last commit](https://img.shields.io/github/last-commit/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition)
   
 ### Extra:  
-* Want 70+ notification sounds for njRAT  
-* Including a collection from other RATs?  
-* Check: ![njRAT Sounds Collection](https://github.com/ChimesOfDestruction/njRAT-Sounds-Collection)  
+* Update coming soon fixing the pastebin DNS crashing, instead it wil retry many times and if it does not work it will simply end itself.
+* Also adding more GDI+ effects.
   
 ### Latest Updates:  
 * Add another split-key to flooder.
