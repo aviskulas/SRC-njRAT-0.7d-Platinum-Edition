@@ -13,6 +13,7 @@
 ### TODO:
 * Add more UAC Bypass methods (fodhelper, cmstp)
 * Feel free to suggest improvements/features in Issues tab.  
+* Improve screenlocker so you cannot escape it with ALT + TAB.
 
   
 ##### Compile njRAT & Stub Tutorial:  
