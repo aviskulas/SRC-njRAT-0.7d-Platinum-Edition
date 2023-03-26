@@ -16,7 +16,7 @@
 
   
 ##### Compile njRAT & Stub Tutorial:  
-Being revised...  
+https://user-images.githubusercontent.com/127018596/227810792-79b2c8e8-f7f3-4ee5-b429-0b0bb02b619a.mp4
 ##### Full showcase on Windows 10 Victim:  
 Being revised...  
 ⠀  
