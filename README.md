@@ -4,7 +4,7 @@
   
 ### Latest Updates:  
 * Fix the pastebin DNS crashing, instead it wil continue retrying, if it fails after 50 tries it stops.
-* 3 new GDI+ effects:
+* 4 new GDI+ effects:
 * Draw a full rainbow gradient to the victims  screen.
 * Draw a scary face to a random position on the victims  screen.
 * Draw some crazy lines all over the victims screen.
