@@ -15,8 +15,10 @@
 * Feel free to suggest improvements/features in Issues tab.  
 
   
-##### Full Compile Tutorial & Showcase (Low quality due to Github filesize limit):  
-  
+##### Compile njRAT & Stub Tutorial:  
+Being revised...  
+##### Full showcase on Windows 10 Victim:  
+Being revised...  
 
 
 
