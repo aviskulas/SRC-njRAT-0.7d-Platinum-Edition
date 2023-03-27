@@ -3,6 +3,8 @@
 <img src=https://img.shields.io/github/repo-size/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition alt="Repo Size"> ![GitHub last commit](https://img.shields.io/github/last-commit/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition)
   
 ### Latest Updates:  
+* New option to invoke a BSOD from usermode using ntraiseharderror.
+* Sort out the mostly unusued options and put them into the Persistence category.
 * Make the lock screen hard to escape by minimizing any application that tries to get over it.
 * Fix the pastebin DNS crashing, instead it will continue retrying.
 * 4 new GDI+ effects:
