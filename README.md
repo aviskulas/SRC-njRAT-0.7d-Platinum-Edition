@@ -31,7 +31,7 @@
 ##### Compile njRAT & Stub Tutorial (Outdated, but will still compile the same way):  
 https://user-images.githubusercontent.com/127018596/227810792-79b2c8e8-f7f3-4ee5-b429-0b0bb02b619a.mp4
 ##### Showcase of the features:  
-https://user-images.githubusercontent.com/127018596/228050379-e872f23f-387b-4119-ab4e-a3294663830a.mp4
+#### [Click here to view the video, Github only allows 1 video per readme.](https://user-images.githubusercontent.com/127018596/228050379-e872f23f-387b-4119-ab4e-a3294663830a.mp4)
 ⠀  
 ### Common compile errors:  
 
