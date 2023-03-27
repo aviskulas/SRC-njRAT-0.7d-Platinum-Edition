@@ -2,6 +2,10 @@
   
 <img src=https://img.shields.io/github/repo-size/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition alt="Repo Size"> ![GitHub last commit](https://img.shields.io/github/last-commit/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition)
   
+###### Sorry for not updating this in a long time, I have finally gotten round to updating it again.
+###### Though to be honest I have run out of ideas on what to add or improve.
+###### Feel free to suggest anything in the issues tab.
+
 ### Latest Updates:  
 * New option to invoke a BSOD from usermode using ntraiseharderror.
 * Sort out the mostly unusued options and put them into the Persistence category.
