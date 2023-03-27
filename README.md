@@ -3,7 +3,8 @@
 <img src=https://img.shields.io/github/repo-size/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition alt="Repo Size"> ![GitHub last commit](https://img.shields.io/github/last-commit/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition)
   
 ### Latest Updates:  
-* Fix the pastebin DNS crashing, instead it wil continue retrying, if it fails after 50 tries it stops.
+* Make the lock screen practically impossible to escape by minimizing any application that tries to get over it.
+* Fix the pastebin DNS crashing, instead it will continue retrying, if it fails after 50 tries it stops.
 * 4 new GDI+ effects:
 * Draw a full rainbow gradient to the victims  screen.
 * Draw a scary face to a random position on the victims  screen.
