@@ -9,6 +9,7 @@
 ### Latest Updates:  
 * Remove unused comments within the stub.
 * Clean and fix up some forms.
+* Update .NET Reactor to a later version and compressed it.
 * Add an image to the notification window.
 * New option to invoke a BSOD from usermode using ntraiseharderror.
 * Sort out the mostly unusued options and put them into the Persistence category.
@@ -25,6 +26,7 @@
 * Add more UAC Bypass methods (fodhelper, cmstp)
 * Feel free to suggest improvements/features in Issues tab.  
 * Make the keylogger removable/toggled due to behavior detection with AVs.
+* Make the MBR code optionally removable due to the "KillMBR" detection with AVs.
   
 ##### Compile njRAT & Stub Tutorial:  
 https://user-images.githubusercontent.com/127018596/227810792-79b2c8e8-f7f3-4ee5-b429-0b0bb02b619a.mp4
