@@ -28,7 +28,7 @@
 * Make the keylogger removable/toggled due to behavior detection with AVs.
 * Make the MBR code optionally removable due to the "KillMBR" detection with AVs.
   
-##### Compile njRAT & Stub Tutorial:  
+##### Compile njRAT & Stub Tutorial (Outdated, but will still compile the same way):  
 https://user-images.githubusercontent.com/127018596/227810792-79b2c8e8-f7f3-4ee5-b429-0b0bb02b619a.mp4
 ##### Full showcase on Windows 10 Victim:  
 Being revised...  
