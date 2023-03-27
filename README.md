@@ -18,6 +18,7 @@
 * Draw System Icons all over the victims screen.
  
 ### TODO:
+###### (I've been stuck on adding UAC bypass methods for now, but i'll be working on it.)
 * Add more UAC Bypass methods (fodhelper, cmstp)
 * Feel free to suggest improvements/features in Issues tab.  
 
