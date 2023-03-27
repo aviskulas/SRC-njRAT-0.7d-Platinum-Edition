@@ -7,6 +7,9 @@
 ###### Feel free to suggest anything in the issues tab.
 
 ### Latest Updates:  
+* Remove unused comments within the stub.
+* Clean and fix up some forms.
+* Add an image to the notification window.
 * New option to invoke a BSOD from usermode using ntraiseharderror.
 * Sort out the mostly unusued options and put them into the Persistence category.
 * Make the lock screen hard to escape by minimizing any application that tries to get over it.
@@ -21,7 +24,7 @@
 ###### (I've been stuck on adding UAC bypass methods for now, but i'll be working on it.)
 * Add more UAC Bypass methods (fodhelper, cmstp)
 * Feel free to suggest improvements/features in Issues tab.  
-
+* Make the keylogger removable/toggled due to behavior detection with AVs.
   
 ##### Compile njRAT & Stub Tutorial:  
 https://user-images.githubusercontent.com/127018596/227810792-79b2c8e8-f7f3-4ee5-b429-0b0bb02b619a.mp4
