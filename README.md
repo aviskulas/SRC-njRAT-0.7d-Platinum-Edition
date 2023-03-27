@@ -7,7 +7,7 @@
 * Fix the pastebin DNS crashing, instead it will continue retrying.
 * 4 new GDI+ effects:
 * Draw a full rainbow gradient to the victims  screen.
-* Draw a scary face to a random position on the victims  screen.
+* Draw a spooky face to a random position on the victims  screen.
 * Draw some crazy lines all over the victims screen.
 * Draw System Icons all over the victims screen.
  
