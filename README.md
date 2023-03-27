@@ -7,6 +7,7 @@
 ###### Feel free to suggest anything in the issues tab.
 
 ### Latest Updates:  
+* Make the keylogger removable/toggled due to behavior detection with AVs.
 * Remove unused comments within the stub.  
 * Clean and fix up some forms.  
 * Update .NET Reactor to a later version and compressed it.  
@@ -25,7 +26,6 @@
 ###### (I've been stuck on adding UAC bypass methods for now, but i'll be working on it.)
 * Add more UAC Bypass methods (fodhelper, cmstp)
 * Feel free to suggest improvements/features in Issues tab.  
-* Make the keylogger removable/toggled due to behavior detection with AVs.
 * Make the MBR code optionally removable due to the "KillMBR" detection with AVs.
   
 ##### Compile njRAT & Stub Tutorial (Outdated, but will still compile the same way):  
