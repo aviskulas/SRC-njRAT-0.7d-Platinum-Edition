@@ -7,19 +7,19 @@
 ###### Feel free to suggest anything in the issues tab.
 
 ### Latest Updates:  
-* Remove unused comments within the stub.
-* Clean and fix up some forms.
-* Update .NET Reactor to a later version and compressed it.
-* Add an image to the notification window.
-* New option to invoke a BSOD from usermode using ntraiseharderror.
-* Sort out the mostly unusued options and put them into the Persistence category.
-* Make the lock screen hard to escape by minimizing any application that tries to get over it.
-* Fix the pastebin DNS crashing, instead it will continue retrying.
-* 4 new better and higher quality GDI+ effects:
-* Draw a full rainbow gradient to the victims  screen.
-* Draw a spooky face to a random position on the victims  screen.
-* Draw some crazy lines all over the victims screen.
-* Draw System Icons all over the victims screen.
+* Remove unused comments within the stub.  
+* Clean and fix up some forms.  
+* Update .NET Reactor to a later version and compressed it.  
+* Add an image to the notification window.  
+* New option to invoke a BSOD from usermode using ntraiseharderror.  
+* Sort out the mostly unusued options and put them into the Persistence category. (USB Spreader & Botkiller)  
+* Make the lock screen hard to escape by minimizing any application that tries to get over it.  
+* Fix the pastebin DNS crashing, instead it will continue retrying.  
+* 4 new better and higher quality GDI+ effects:  
+* Draw a full rainbow gradient to the victims  screen.  
+* Draw a spooky face to a random position on the victims  screen.  
+* Draw some crazy lines all over the victims screen.  
+* Draw System Icons all over the victims screen.  
  
 ### TODO:
 ###### (I've been stuck on adding UAC bypass methods for now, but i'll be working on it.)
