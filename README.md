@@ -2,7 +2,8 @@
   
 <img src=https://img.shields.io/github/repo-size/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition alt="Repo Size"> ![GitHub last commit](https://img.shields.io/github/last-commit/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition)
   
-###### Currently working on: CMSTP Bypass. (Just debugging it since it fails sometimes.)
+###### Currently working on: CMSTP Bypass.
+###### (Debugging it since it works in a console application but not the stub when compiled.)
 ###### Feel free to suggest anything in the issues tab.
 
 ### Latest Updates:  
