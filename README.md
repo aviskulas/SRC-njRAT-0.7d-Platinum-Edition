@@ -2,7 +2,8 @@
   
 <img src=https://img.shields.io/github/repo-size/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition alt="Repo Size"> ![GitHub last commit](https://img.shields.io/github/last-commit/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition)
   
-###### Feel free to suggest anything in the issues tab.
+###### Feel free to suggest anything in the issues tab, you are also free to modify the source and do what you want.
+###### The source is free for everyone to learn, edit, modify. You do not need any of my permission to redistribute.
 
 ### Latest Updates:  
 * Fix bugs: Unable to delete files and hide file.
