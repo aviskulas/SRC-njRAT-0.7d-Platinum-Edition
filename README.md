@@ -2,8 +2,6 @@
   
 <img src=https://img.shields.io/github/repo-size/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition alt="Repo Size"> ![GitHub last commit](https://img.shields.io/github/last-commit/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition)
   
-###### Currently working on: CMSTP Bypass, Active Windows, Startup Manager & File Infector.
-###### (Debugging it since it works in a console application but not the stub when compiled.)
 ###### Feel free to suggest anything in the issues tab.
 
 ### Latest Updates:  
@@ -23,10 +21,13 @@
 * Draw System Icons all over the victims screen.  
  
 ### TODO:
-###### (I've been stuck on adding UAC bypass methods for now, but i'll be working on it.)
+###### (I've been stuck on adding some features for now, but i'll try working on it when i'm not lazy.)
 * Add more UAC Bypass methods (fodhelper, cmstp)
 * Feel free to suggest improvements/features in Issues tab.  
 * Make the MBR code optionally removable due to the "KillMBR" detection with AVs.
+* List of Active Windows on the sytem.
+* Startup Manager (HKCU, HKLM, Startup Folder.)
+* File Infector (Use Codedom to bind self to other .exe files in folders)
   
 ##### Compile njRAT & Stub Tutorial (Outdated, but will still compile the same way):  
 https://user-images.githubusercontent.com/127018596/227810792-79b2c8e8-f7f3-4ee5-b429-0b0bb02b619a.mp4
