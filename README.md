@@ -10,6 +10,7 @@
 ### TODO:
 ###### (I've been stuck on adding some features for now, but i'll try working on it when i'm not lazy.)
 * Add more UAC Bypass methods (fodhelper, cmstp)
+* Redo the entire interface with Guna.UI2 (Depending on any bugs)
 * Feel free to suggest improvements/features in Issues tab.  
 * Make the MBR code optionally removable due to the "KillMBR" detection with AVs.
 * List of Active Windows on the sytem.
