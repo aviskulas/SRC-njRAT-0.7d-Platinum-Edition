@@ -18,6 +18,8 @@
 * Startup Manager (HKCU, HKLM, Startup Folder.)
 * File Infector (Use Codedom to bind self to other .exe files in folders)
 * Ransomware Encrypt/Decrypt (Custom note, extension and notes filename.)
+* (I fully implemented ransomware, but I decided not to release it.)
+* (Maybe in a week i'll implement a different one with better encryption.)
   
 ##### Compile njRAT & Stub Tutorial (Outdated, but will still compile the same way):  
 https://user-images.githubusercontent.com/127018596/227810792-79b2c8e8-f7f3-4ee5-b429-0b0bb02b619a.mp4
