@@ -6,8 +6,7 @@
 ###### The source is free for everyone to learn, edit, modify. You do not need any of my permission to redistribute.
 
 ### Latest Updates:  
-* Fix bugs: Disable Defender fixed.  
-* Builder: Add Disable Defender and Add Exclusions.  
+* Fix bugs: Modify registry key that caused detection
 ### TODO:
 ###### (I've been stuck on adding some features for now, but i'll try working on it when i'm not lazy.)
 * Add more UAC Bypass methods (fodhelper, cmstp)
